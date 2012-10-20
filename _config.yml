@@ -11,17 +11,17 @@ course:
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
   base_path:
   # E.g., ENGL 536
-  number:
-  name:
-  # Keep the description brief, about 140 chars
-  description:
+  number: ENG345
+  name: Technical Writing
+  # 
+  description: An undergraduate course in principles and standards of technical writing
   # E.g., Spring 2013:
-  term:
-  instructor:
-    name:
-    office:
-    office_hours:
-    email:
+  term: Winter 2013
+  instructor: 
+    name: Dr James Schirmer
+    office: 326D French Hall
+    office_hours: Tuesdays & Thursdays by appointment
+    email: jschirm@umflint.edu
     phone:
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: betajames
